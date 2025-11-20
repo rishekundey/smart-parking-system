@@ -44,7 +44,7 @@ CREATE TABLE tickets (ticket_id VARCHAR(32) PRIMARY KEY, license_plate VARCHAR(3
 ```
 
 ## Class Diagram
-See `/class-diagram.png`.
+See `class-diagram.png`.
 
 ## Notes
 - This project focuses on low-level design; persistence layer (DB) is not implemented but schema provided.
